@@ -5,7 +5,8 @@
 
 快照：https://urlscan.io/screenshots/a1d00309-2b07-47ef-8256-5e8d4faa1dd1.png
 ![](https://urlscan.io/screenshots/a1d00309-2b07-47ef-8256-5e8d4faa1dd1.png)
-
+![](
+https://github.com/jas502n/St2-052/blob/master/St2-052%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0.wmv)
 从struts2的官网下载最后受影响的版本struts-2.5.12，地址：
 http://archive.apache.org/dist/struts/2.5.12/struts-2.5.12-apps.zip
 注意下载struts-2.5.12-apps即可，不需要下载struts-2.5.12-all.zip。不然struts-2.5.12-all.zip中包含很多其他的东西，可以看到lib目录下有很多jar包。
