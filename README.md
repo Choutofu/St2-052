@@ -27,7 +27,7 @@ https://cwiki.apache.org/confluence/display/WW/S2-052
 从struts2的官网下载最后受影响的版本struts-2.5.12，地址：
 http://archive.apache.org/dist/struts/2.5.12/struts-2.5.12-apps.zip
 注意下载struts-2.5.12-apps即可，不需要下载struts-2.5.12-all.zip。不然struts-2.5.12-all.zip中包含很多其他的东西，可以看到lib目录下有很多jar包。
-
+![](/image/1.png)
 拿到struts-2.5.12-apps之后，将其中的app目录下的struts2-rest-showcase.war文件放到webapps目录下，我的是
 
 /Library/Tomcat-8.5.15/webapps然后设置一下conf/server.xml文件即可。
