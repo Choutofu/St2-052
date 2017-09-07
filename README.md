@@ -3,8 +3,6 @@
 # S2-052的POC测试(原名：Tomcat部署war）
 原文地址：http://blog.csdn.net/caiqiiqi/article/details/77861477
 
-快照：https://urlscan.io/screenshots/a1d00309-2b07-47ef-8256-5e8d4faa1dd1.png
-![](https://urlscan.io/screenshots/a1d00309-2b07-47ef-8256-5e8d4faa1dd1.png)
 
 从struts2的官网下载最后受影响的版本struts-2.5.12，地址：
 http://archive.apache.org/dist/struts/2.5.12/struts-2.5.12-apps.zip
